@@ -1,0 +1,12 @@
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
+F:\INTERNET APPLICATION AND WEB DEVELOPMENT\SEM 2\ASP\as6\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net5.0\BlazorWebAssemblySignalRApp.Shared.pdb
